@@ -1,5 +1,3 @@
- #bioinformatics
-
 ## A single-cell atlas of the peripheral immune response in patients with severe COVID-19
 
 1. Отсеквенировали РНК крови (а конкретнее - _PBMC - peripheral blood mononuclear cell_ - т.е. лимфоциты, моноциты и дендритные клетки; которые выделили центрифугированием и потом провернули ПЦР с обратной транскрипцией) порядка 13 людей (6 человек контроля, по несколько человек  с серьёзным (ARDS - acute respiratory distress syndrome) и не очень ковидом) - scRNA с использованием платформы Seq-Well.
