@@ -2,7 +2,7 @@
 
 1. Отсеквенировали РНК крови (а конкретнее - _PBMC - peripheral blood mononuclear cell_ - т.е. лимфоциты, моноциты и дендритные клетки; которые выделили центрифугированием и потом провернули ПЦР с обратной транскрипцией) порядка 13 людей (6 человек контроля, по несколько человек  с серьёзным (ARDS - acute respiratory distress syndrome) и не очень ковидом) - scRNA с использованием платформы Seq-Well.
 
-2. Выравнили с помощью _STAR_ на геном человека- выравнивателя, заточенного под RNA. "No SARS-CoV-2 reads were aligned from these samples using this strategy" ... 
+2. Выравнили на геном человека с помощью _STAR_ - выравнивателя, заточенного под RNA. "No SARS-CoV-2 reads were aligned from these samples using this strategy" ... 
 
 3. Подсчитали count matrices ("gene counts per sample") по полученным BAM-файлам - _dropEst_ 
 
