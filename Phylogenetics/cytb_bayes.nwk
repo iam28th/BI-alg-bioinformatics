@@ -1,0 +1,7 @@
+(Ardea_cinerea:5.311778e-01,Dendrocygna_javanica:2.634830e-01,
+(((Anas_poecilorhyncha:1.174733e-03,Anas_platyrhynchos:1.272799e-03)
+1.000:1.097669e-01,Aix_galericulata:9.163495e-02)0.703:2.645730e-02,
+(((Anser_cygnoides:1.261352e-02,Anser_anser:1.534900e-02)1.000:5.705122e-02,
+Branta_canadensis:5.203635e-02)0.908:1.600146e-02,(Cygnus_cygnus:6.952924e-02,
+Cygnus_atratus:4.931954e-02,Cygnus_olor:3.820066e-02)1.000:3.381131e-02)
+0.998:4.083612e-02)0.911:6.526014e-02);
